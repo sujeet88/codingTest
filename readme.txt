@@ -21,4 +21,3 @@ B) How to Install:
 
 4. Run command in command line to post repository issues on the github|bitbucket
    e.g. php index.php sujeet88 sujeet_102 "https://github.com/codingTest/test" "title" "description"
-   e.g. php index.php sujeet88 sujeet_102 "https://bitbucket.org/codingTest/test" "title" "description"
