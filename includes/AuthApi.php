@@ -28,7 +28,7 @@ class AuthApi {
         'bitbucket_url' => ':protocol://api.bitbucket.org/1.0/:path?format=:format',
         'format' => 'object',
         'user_agent' => ':apitype php api',
-        'timeout' => 10,
+        'timeout' => 100,
         'api_url' => null,
         'api_path' => null,
         'api_type' => null,
